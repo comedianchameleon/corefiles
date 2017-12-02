@@ -1,2 +1,2 @@
 # corefiles
-//a to search large files for core changes
+ctrl + f + //a to search large files for core changes
